@@ -1,0 +1,7 @@
+.link a:hover{
+    color: red;
+}
+
+.link{
+    padding:5px 0;
+}
